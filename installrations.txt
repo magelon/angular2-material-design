@@ -1,0 +1,20 @@
+npm install --@angular/material
+npm install --save hammerjs
+npm install --save-dev @types/hammerjs
+
+tsconfig.json add types
+
+https://material.angular.io/guide/getting-started
+
+npm install --save @angular/material @angular/cdk
+npm install --save @angular/animations
+
+in index.html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+
+
+npm install material-design-icons
+
+data.json
